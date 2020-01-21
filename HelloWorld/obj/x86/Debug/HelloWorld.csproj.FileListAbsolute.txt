@@ -2,3 +2,7 @@ G:\17ce039\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 G:\17ce039\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 G:\17ce039\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
 G:\17ce039\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+G:\17ce039\DotNetPracticals\HelloWorld\obj\x86\Debug\HelloWorld.exe
+G:\17ce039\DotNetPracticals\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+G:\17ce039\DotNetPracticals\HelloWorld\bin\Debug\HelloWorld.exe
+G:\17ce039\DotNetPracticals\HelloWorld\bin\Debug\HelloWorld.pdb
