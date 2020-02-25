@@ -73,16 +73,23 @@ namespace Practical1
                 }
                 Console.Write("\n");
             }
-            for (int i = 5; i > 0; i--)
+            for (int i = 5; i >=0; i--)
             {
-               
+                for (int j = 5; j >= i; j--)
+                {
+                    Console.Write(" ");
+                }
+                for (int j = 1; j < i; j++)
+                {
+                    Console.Write("*");
+                }
                 for (int j = 1; j < i; j++)
                 {
                     Console.Write("*");
                 }
                 for (int k = 5; k >= i; k--)
                 {
-                    Console.Write(" ");
+                    Console.Write("");
                 }
                 Console.Write("\n");
             }
